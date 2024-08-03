@@ -2,9 +2,10 @@
 
 # A job listing platform for various job opportunities
 
-## Screenshots
+## video
 
-[Download and watch the demo video](./public/screenshot/screen-capture.webm)
+[screen-capture.webm](https://github.com/user-attachments/assets/a84263d5-0237-40ff-bc66-69e7fe9cec13)
+
 
 ## Features
 
